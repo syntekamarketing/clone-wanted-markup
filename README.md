@@ -44,11 +44,11 @@
 
 1.  저장소를 `Code → Download ZIP`으로 프로젝트를 내려받거나, `Use this template` 기능을 통해 본인 저장소를 생성합니다.
     ```bash
-    https://github.com/syntekamarketing/material-to-markup.git
+    https://github.com/syntekamarketing/clone-wanted-markup.git
     ```
 2.  프로젝트 디렉토리로 이동합니다.
     ```bash
-    cd material-to-markup
+    cd clone-wanted-markup
     ```
 3.  의존성을 설치합니다.
     ```bash
